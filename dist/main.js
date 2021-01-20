@@ -1,0 +1,1 @@
+(()=>{const e=document.querySelector("#content"),t=document.createElement("p");t.textContent="helsdfgsdfgo",e.appendChild(t)})();
